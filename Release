@@ -1,0 +1,12 @@
+Origin: 俊宏
+Label: 俊宏
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64
+Components: main
+Description: 欢迎光临
+
+SHA256:
+ f4ba973bf06dea2f39d4b32a7b16ca853e81af46f732da36a5bb374036b07431 1126 Packages.bz2
+ e7b432c9486ef49c67b2a62490cfacc2a6e5396c324e4b279f565feea71f183e 1008 Packages.xz
