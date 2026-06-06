@@ -3,10 +3,10 @@ Label: Junhong Repo
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm64 iphoneos-arm64e
+Architectures: iphoneos-arm64
 Components: main
 Description: 欢迎光临
 
 SHA256:
- fb6fb527318927ffd6724156de12c38b5818c4dfaff0af285e76555a841df4ad 1975 Packages.bz2
- 94299af5b8a1301c3d25e4350cc7560a0917ff7190168a1ff4b79a9c7f504645 1720 Packages.xz
+ f9d8bfe6b0c40eeb140c2c09d99200cfd2b6d70543f4d0d8f221d902c05ffb4d 1921 Packages.bz2
+ f35a86fd64db7e08809125743e344022a1e347e74156509be32f5c3028d32d59 1704 Packages.xz
