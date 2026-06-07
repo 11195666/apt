@@ -4,22 +4,42 @@
 
 Roothide用户请自行转换使用
 
-已测试设备：
+#### 已测试设备：
+
 iPhone 14 Pro（iOS 16.3）
+
 iPhone SE（iOS 15.8.5）
+
 iPhone 6s（iOS 15.8.5）
 
+iPhone 12（iOS 16.1）
+
+iPad 9th （iOS 15.4.1）
+
 其他设备请自行测试，免费插件兼容性不作保障。
+
 插件仅用于测试、学习用途，请于 24 小时内删除
 
 Individually configure spoofed permissions for any app to prevent abusive privacy permission requests.
+
 Features available: notifications & push alerts, mock location, photo library, contacts, calendar, virtual camera (force gallery image replacement / dummy photo capture), microphone, Bluetooth, clipboard, sensors, spoofed Wi-Fi data, custom device model spoofing, and more.
 This tweak supports configuration import & export, as well as temporary suspension of custom settings for individual apps.
+
 Roothide users need to adapt the configuration manually.
-Tested Devices
-iPhone 14 Pro (iOS 16.3)
-iPhone SE (iOS 15.8.5)
-iPhone 6s (iOS 15.8.5)
+
+Tested Devices:
+
+iPhone 14 Pro（iOS 16.3）
+
+iPhone SE（iOS 15.8.5）
+
+iPhone 6s（iOS 15.8.5）
+
+iPhone 12（iOS 16.1）
+
+iPad 9th （iOS 15.4.1）
+
 All other devices require self-testing; compatibility is not guaranteed for this free tweak.
 Disclaimer
+
 This tweak is for testing and educational purposes only. Please uninstall it within 24 hours upon installation.
