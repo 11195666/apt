@@ -34,8 +34,6 @@
 
 ### 已测试设备
 
-iPhone 14 Pro Max（iOS 16.5）
-
 iPhone 14 Pro（iOS 16.3）
 
 iPhone 12（iOS 16.1）
@@ -84,6 +82,6 @@ Individually configure spoofed permissions for any app to prevent excessive priv
 
 ---
 
-Tested Devices: iPhone 14 Pro Max (iOS 16.5), iPhone 14 Pro (iOS 16.3), iPhone 12 (iOS 16.1), iPhone SE 1st (iOS 15.8.5), iPad 9th (iOS 15.4.1). Other devices test at your own risk.
+Tested Devices: iPhone 14 Pro (iOS 16.3), iPhone 12 (iOS 16.1), iPhone SE 1st (iOS 15.8.5), iPad 9th (iOS 15.4.1). Other devices test at your own risk.
 
 This tweak is for testing and educational purposes only. Please uninstall within 24 hours.
